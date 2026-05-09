@@ -1,5 +1,8 @@
 # calendar-disc
 Calendrier perpétuel ( avec jours de la semaine) de 1844 à 2118 
+
+>>>>> scripts python générés et mis au point grace à Copilot <<<<<
+
 Objectif du dispositif
 Permettre de déterminer, pour n’importe quelle date entre 1844 et 2118 :
 
